@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "685846528360",
+    "firebase_url": "https://com-funapps-gje.firebaseio.com",
+    "project_id": "com-funapps-gje",
+    "storage_bucket": "com-funapps-gje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685846528360:android:c875e4e63d4468102cd6dd",
+        "android_client_info": {
+          "package_name": "com.funapps.gje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685846528360-hcksel6eo6khfn4re2a28btaefgva2hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funapps.gje",
+            "certificate_hash": "fb598fed967a79ee002e5dc6ea86ece399a9e0cd"
+          }
+        },
+        {
+          "client_id": "685846528360-hu7b8nr14mnba951c4ktjjiiosrqggs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIE-OTzJnYmWD1w27lenI1e6a7q6fHkqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685846528360-hu7b8nr14mnba951c4ktjjiiosrqggs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

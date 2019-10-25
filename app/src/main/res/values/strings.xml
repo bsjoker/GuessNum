@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Угадай число</string>
+
+    <string name="facebook_app_id">552141665543856</string>
+    <string name="fb_login_protocol_scheme">fb552141665543856</string>
+
+    <string name="default_notification_channel_id">27691</string>
+
+    <string-array name="iconsList">
+        <item>monkey</item>
+        <item>vegas</item>
+        <item>sevenshell</item>
+        <item>sevensruby</item>
+        <item>strawberry</item>
+        <item>pharaon</item>
+        <item>shtirliz</item>
+        <item>book</item>
+    </string-array>
+</resources>
